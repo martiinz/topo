@@ -1,3 +1,5 @@
+![](laengenberg-unten.jpg)
+
 | #    | Name                    | Grad | Notes           |
 | ---- | ----------------------- | ---- | --------------- |
 | 1l   | Efeukante               | 5c   |                 |
